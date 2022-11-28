@@ -1,1 +1,0 @@
-In this pdf we will try to map all the things that are necessary

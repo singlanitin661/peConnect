@@ -1,5 +1,6 @@
-html
-    head
-        title welocme 
-    body 
-        h1 This is awesome 
+extends layouts/main-layout.pug
+
+block content    
+    h1 This is awesome
+
+    p #{userLoggedIn.firstName}
